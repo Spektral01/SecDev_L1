@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rtml8H/3w4E=",
+  "success": true,
+  "projectFilePath": "D:\\Magister\\Проектирование в защищеном\\Lab1\\ImageHelper\\ImageHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaly\\.nuget\\packages\\sixlabors.imagesharp\\3.1.11\\sixlabors.imagesharp.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

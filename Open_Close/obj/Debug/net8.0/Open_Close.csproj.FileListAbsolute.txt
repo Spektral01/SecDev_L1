@@ -1,0 +1,14 @@
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\bin\Debug\net8.0\Open_Close.exe
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\bin\Debug\net8.0\Open_Close.deps.json
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\bin\Debug\net8.0\Open_Close.runtimeconfig.json
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\bin\Debug\net8.0\Open_Close.dll
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\bin\Debug\net8.0\Open_Close.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.GeneratedMSBuildEditorConfig.editorconfig
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.AssemblyInfoInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.AssemblyInfo.cs
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.csproj.CoreCompileInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.dll
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\refint\Open_Close.dll
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\Open_Close.genruntimeconfig.cache
+D:\Magister\Проектирование в защищеном\Lab1\Open_Close\obj\Debug\net8.0\ref\Open_Close.dll

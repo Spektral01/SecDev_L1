@@ -1,0 +1,14 @@
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\bin\Debug\net8.0\Single_Resp_Principle.exe
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\bin\Debug\net8.0\Single_Resp_Principle.deps.json
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\bin\Debug\net8.0\Single_Resp_Principle.runtimeconfig.json
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\bin\Debug\net8.0\Single_Resp_Principle.dll
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\bin\Debug\net8.0\Single_Resp_Principle.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.AssemblyInfoInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.AssemblyInfo.cs
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.csproj.CoreCompileInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.dll
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\refint\Single_Resp_Principle.dll
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\Single_Resp_Principle.genruntimeconfig.cache
+D:\Magister\Проектирование в защищеном\Lab1\Single_Resp_Principle\obj\Debug\net8.0\ref\Single_Resp_Principle.dll

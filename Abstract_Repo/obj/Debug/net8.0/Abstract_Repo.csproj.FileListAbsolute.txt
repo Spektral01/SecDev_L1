@@ -1,0 +1,14 @@
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\bin\Debug\net8.0\Abstract_Repo.exe
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\bin\Debug\net8.0\Abstract_Repo.deps.json
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\bin\Debug\net8.0\Abstract_Repo.runtimeconfig.json
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\bin\Debug\net8.0\Abstract_Repo.dll
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\bin\Debug\net8.0\Abstract_Repo.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.AssemblyInfoInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.AssemblyInfo.cs
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.csproj.CoreCompileInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.dll
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\refint\Abstract_Repo.dll
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.pdb
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\Abstract_Repo.genruntimeconfig.cache
+D:\Magister\Проектирование в защищеном\Lab1\Abstract_Repo\obj\Debug\net8.0\ref\Abstract_Repo.dll

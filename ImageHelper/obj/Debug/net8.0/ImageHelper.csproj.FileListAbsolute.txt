@@ -1,0 +1,17 @@
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.csproj.AssemblyReference.cache
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.AssemblyInfoInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.AssemblyInfo.cs
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.csproj.CoreCompileInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\ImageHelper.exe
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\ImageHelper.deps.json
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\ImageHelper.runtimeconfig.json
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\ImageHelper.dll
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\ImageHelper.pdb
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHel.B12C7A0E.Up2Date
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.dll
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\refint\ImageHelper.dll
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.pdb
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ImageHelper.genruntimeconfig.cache
+D:\Magister\Проектирование в защищеном\Lab1\ImageHelper\obj\Debug\net8.0\ref\ImageHelper.dll
